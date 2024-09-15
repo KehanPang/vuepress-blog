@@ -26,16 +26,6 @@ sidebar: false
   - にほんご √
 - Hobbies: sleeping, slacking off, procrastinating online, ACGN.
 
-### Publications
-
-**(All primary contributors to the papers are listed alphabetically)**
-
-#### 2024
-
-1. [**_Linking Entities across Relations and Graphs._**](https://dl.acm.org/doi/10.1145/3639363)<br>
-  *ACM Transactions on Database Systems (TODS), 2024.*<br>
-  Wenfei Fan, Ping Lu, Kehan Pang, Ruochun Jin and Wenyuan Yu<br>
-
 ### Contact me
 
 - E-mail：[pangkehan@buaa.edu.cn](mailto:pangkehan@buaa.edu.cn)
@@ -46,7 +36,7 @@ sidebar: false
 
 ### Skill tree
 
-Computer vision
+Computer Vision
 <el-progress :text-inside="true" :stroke-width="26" :percentage="10"></el-progress>
 Natural language processing
 <el-progress :text-inside="true" :stroke-width="24" :percentage="40" status="success"></el-progress>
