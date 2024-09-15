@@ -17,7 +17,7 @@ sidebar: false
 ### About me
 
 - Occupation: A PhD student who is a jack of all trades, master of none.
-- Current residence: Shenzhen, Guangdong Province, China.
+- Current residence: Beijing, China.
 - Research interests: Knowledge reasoniong, Data Mining, Data Management.
 - MBTI：INTP.
 - Language:
