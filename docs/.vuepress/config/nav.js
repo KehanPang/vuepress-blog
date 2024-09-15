@@ -13,7 +13,7 @@ module.exports = [
                 },
                 {
                     text: 'LLMs',
-                    link:'/technology/Survey/01-Textgraph'
+                    link:'/knowledge/Survey/01-Textgraph'
                 },
             ]
     },
