@@ -8,12 +8,16 @@ module.exports = [
         items: [
 
                 {
-                    text: 'Surveys',
-                    link: '/knowledge/Survey/01-Textgraph'
+                    text: 'Graphs',
+                    link: '/knowledge/Graphs/01-Textgraph'
                 },
                 {
                     text: 'LLMs',
-                    link:'/knowledge/Survey/01-Textgraph'
+                    link:'/knowledge/LLMs/01-Textgraph'
+                },
+                {
+                    text: 'Sundry',
+                    link:'/knowledge/Sundry/01-ContrastiveLearning'
                 },
             ]
     },
