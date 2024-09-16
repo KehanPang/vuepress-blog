@@ -31,6 +31,11 @@ module.exports = {
             collapsable: true,
             children: getChildren('./docs/technology/code/')
         },
+        {
+            title: 'Language',
+            collapsable: true,
+            children: getChildren('./docs/technology/Language/')
+        },
     ],
     '/jottings/':[
         {
