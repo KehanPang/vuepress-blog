@@ -35,5 +35,5 @@ module.exports = [
                 },
             ]
     },
-    {text: 'Essay', link: '/jottings/01-自传',},
+    {text: 'Essay', link: '/jottings/01-我与他',},
 ]
