@@ -33,6 +33,10 @@ module.exports = [
                     text: 'Bugs',
                     link: '/technology/bug/bug'
                 },
+                {
+                    text: 'Language',
+                    link: '/technology/Language/01-English'
+                },
             ]
     },
     {text: 'Essay', link: '/jottings/01-我与他',},
