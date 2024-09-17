@@ -23,6 +23,7 @@
     "sass-loader": "^10.0.1",
     "vue": "^2.7.14",
     "vue-server-renderer": "^2.7.14",
+    "vuepress-plugin-cat": "^1.0.3",
     "vuepress-plugin-code-copy": "^1.0.6",
     "vuepress-sidebar-atuo": "^1.0.0"
   },
@@ -36,6 +37,7 @@
     "vuepress-plugin-flexsearch": "^0.3.0",
     "vuepress-plugin-mathjax": "^1.2.8",
     "vuepress-plugin-nuggets-style-copy": "^1.0.3",
-    "vuepress-plugin-right-anchor": "^2.1.0-rc.2"
+    "vuepress-plugin-right-anchor": "^2.1.0-rc.2",
+    "vuepress-plugin-sakura": "^1.2.1"
   }
 }
