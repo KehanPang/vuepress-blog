@@ -23,7 +23,9 @@ import torch
 
 将dll文件放入'/Windows/SysWOW64'和'/Windows/System32'文件夹
 
-然后重启应用，问题解决
+然后重启应用，问题解决。
+
+此外，缺少动态库链接可能会导致其他系统问题，在有些时候会导致系统崩溃，此时可以使用工具来修复：[DirectX](https://directx.heheshield.com/)
 
 <ClientOnly>
   <leave/>
