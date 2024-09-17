@@ -20,6 +20,15 @@ module.exports = {
             },
         ],
         ['vuepress-plugin-code-copy', true],
+        ["sakura", {
+            num: 20,  // 默认数量
+            show: true, //  是否显示
+            zIndex: -1,   // 层级
+            img: {
+            replace: false,  // false 默认图 true 换图 需要填写httpUrl地址
+            httpUrl: '...'     // 绝对路径
+            }     
+        }]
     ],
     head: [
         ['link', {
@@ -52,7 +61,7 @@ module.exports = {
             "src": "/iconfont/iconfont.js"
         }],
         ["script", {
-            "src": "https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js",
+            "src": "https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js",
         }],
         ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css' }],
     ],
