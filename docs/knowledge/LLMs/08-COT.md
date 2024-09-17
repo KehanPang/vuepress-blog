@@ -1,9 +1,9 @@
 ---
-title: 大模型压缩
+title: COT(Chain-Of-Thought)
 sidebar: true
 # isShowComments: true
 ---
-# 大模型压缩
+# COT(Chain-Of-Thought)
 
 <ClientOnly>
 <title-pv/>

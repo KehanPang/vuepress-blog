@@ -1,9 +1,9 @@
 ---
-title: 大模型压缩
+title: Mixture-of-Expert
 sidebar: true
 # isShowComments: true
 ---
-# 大模型压缩
+# Mixture-of-Expert
 
 <ClientOnly>
 <title-pv/>

@@ -1,9 +1,9 @@
 ---
-title: 大模型压缩
+title: ICL(In-context Learning)
 sidebar: true
 # isShowComments: true
 ---
-# 大模型压缩
+# ICL(In-context Learning)
 
 <ClientOnly>
 <title-pv/>
@@ -13,5 +13,3 @@ sidebar: true
 <ClientOnly>
   <leave/>
 </ClientOnly/>
-
-

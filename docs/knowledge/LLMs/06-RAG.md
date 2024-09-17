@@ -1,9 +1,9 @@
 ---
-title: 大模型压缩
+title: RAG (Retrieve-Augmented  Generation)
 sidebar: true
 # isShowComments: true
 ---
-# 大模型压缩
+# RAG
 
 <ClientOnly>
 <title-pv/>
@@ -13,5 +13,3 @@ sidebar: true
 <ClientOnly>
   <leave/>
 </ClientOnly/>
-
-
