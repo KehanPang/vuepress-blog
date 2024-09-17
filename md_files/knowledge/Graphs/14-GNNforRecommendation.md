@@ -8,7 +8,7 @@ sidebar: true
 <title-pv/>
 </ClientOnly>
 
-<embed src="/pdf/23-GNN4Rec.pdf" type="application/pdf" width="120%" height="1000px" />
+<embed src="/pdf/23-GNN4Rec.pdf" type="application/pdf" width="100%" height="1000px" />
 
 <!-- ### Introduction: GNNs in Recommendation Systems
 
