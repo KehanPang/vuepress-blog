@@ -10,7 +10,7 @@ sidebar: true
 
 <embed src="/pdf/23-GNN4Rec.pdf" type="application/pdf" width="100%" height="1000px" />
 
-<!-- ### Introduction: GNNs in Recommendation Systems
+### Introduction: GNNs in Recommendation Systems
 
 Graph Neural Networks (GNNs) have gained significant traction in recommendation systems due to their ability to model complex relationships in user-item interaction graphs. While GNNs are widely used in various fields such as natural language processing (NLP) and computer vision, their application in recommendation systems comes with unique challenges. In contrast to typical tasks where GNNs are applied (e.g., node classification or graph-level predictions), recommendation systems involve heterogeneous, dynamic, and large-scale graphs. As a result, significant adaptations and structural improvements are required for GNNs to efficiently handle sparse and dynamic interaction data.
 
@@ -98,7 +98,7 @@ To adapt GNNs for recommendation systems, researchers have focused on structural
 
 ### Conclusion
 
-The use of GNNs in recommendation systems requires careful adaptation to handle the unique challenges of large, dynamic, and heterogeneous user-item graphs. Structural modifications such as bipartite graph modeling, dynamic graph updates, and attention mechanisms have proven effective in making GNNs more suitable for the recommendation domain. Despite progress, challenges such as scalability, the cold start problem, and long-tail recommendations remain active areas of research. -->
+The use of GNNs in recommendation systems requires careful adaptation to handle the unique challenges of large, dynamic, and heterogeneous user-item graphs. Structural modifications such as bipartite graph modeling, dynamic graph updates, and attention mechanisms have proven effective in making GNNs more suitable for the recommendation domain. Despite progress, challenges such as scalability, the cold start problem, and long-tail recommendations remain active areas of research.
 
 <ClientOnly>
   <leave/>
