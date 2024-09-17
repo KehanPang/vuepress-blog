@@ -8,7 +8,7 @@ git init
 git add -A
 git commit -m 'code'
 git branch -M main
-git push -f https://github.com/Khancat1120/vuepress-blog.git main
+git push -f https://github.com/KehanPang/vuepress-blog.git main
 
 # 生成静态文件
 # npm run docs:build
@@ -27,4 +27,4 @@ git commit -m 'deploy'
 git branch -M main
 
 # 如果你想要部署到 https://USERNAME.github.io
-git push -f https://github.com/Khancat1120/Khancat1120.github.io.git main
+git push -f https://github.com/KehanPang/KehanPang.github.io.git main
