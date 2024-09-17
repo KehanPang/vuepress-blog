@@ -2,7 +2,7 @@
 module.exports = [
     {text: 'Home', link: '/index.html'},
     {text: 'About', link: '/about/'},
-    {text: 'C.V.', link: 'https://khancat1120.github.io/cv.pdf'},
+    {text: 'C.V.', link: 'https://KehanPang.github.io/cv.pdf'},
     {
         text: 'Surv.', 
         items: [
