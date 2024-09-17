@@ -52,7 +52,7 @@ module.exports = {
             "src": "/iconfont/iconfont.js"
         }],
         ["script", {
-            "src": "https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js",
+            "src": "https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js",
         }],
         ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css' }],
     ],
