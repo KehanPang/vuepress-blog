@@ -29,7 +29,7 @@ module.exports = {
             replace: false,  // false 默认图 true 换图 需要填写httpUrl地址
             httpUrl: '...'     // 绝对路径
             }     
-        }]
+        }],
     ],
     head: [
         ['link', {
