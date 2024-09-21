@@ -159,7 +159,7 @@ sidebar: true
 * evolve：进化
 * evolution：进化
 * eliminate：排除 ++
-* eligible：有资格
+* eligible：有资格 ++
 * elude：逃避，拒绝
 * elaborated：精心制作 ++
 * emphasis：强调
