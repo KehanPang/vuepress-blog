@@ -19,7 +19,7 @@ sidebar: true
 
 ### 生成式信息检索
 
-## 架构
+## 范式
 
 ### 检索器
 
@@ -27,7 +27,7 @@ sidebar: true
 
 ## 排序
 
-#### Learn to Rank
+### Learn to Rank
 
 根据损失函数，我们可以将LTR算法划分为Pointwise LTR, Pairwise LTR, Listwise LTR。
 
@@ -35,9 +35,7 @@ sidebar: true
 
 ### 精排
 
-
-
-#### 重排序
+### 重排序
 
 ## 预处理与后处理
 

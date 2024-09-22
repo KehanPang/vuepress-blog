@@ -9,15 +9,12 @@ sidebar: true
 <title-pv/>
 </ClientOnly>
 
-
-
 This paper presents Graphormer, a novel graph neural network (GNN) architecture that builds upon the standard Transformer model to excel in graph representation learning tasks. The authors address the challenge of adapting the Transformer, which is primarily designed for sequential data, to effectively model graph-structured data. They propose several structural encoding methods to incorporate graph-specific information into the model:
 
 
 <div style="text-align: center;">
   <img src="/img/Graphormer.png" style="margin-bottom: -20px;" width="90%" height="90%">
 </div>
-
 
 ## Centrality Encoding
 
