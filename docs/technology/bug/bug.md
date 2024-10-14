@@ -10,6 +10,15 @@ sidebar: true
 <title-pv/>
 </ClientOnly>
 
+<div style="text-align: center;">
+<img src="/img/mahua1.png" style="margin-bottom: -20px;" width="100%" height="100%">
+</div>
+
+<div style="text-align: center;">
+<img src="/img/mahua2.png" style="margin-bottom: -20px;" width="100%" height="100%">
+</div>
+
+
 ```python
 # 在这里养了一只猫猫用于捉虫，路过的朋友要是不开心的话可以摸摸它，心情会好很多
 # 　　　　　　 ＿＿
