@@ -29,8 +29,8 @@ sidebar: false
 ### Contact me
 
 - E-mail：[pangkehan@buaa.edu.cn](mailto:pangkehan@buaa.edu.cn)
-- Alternate email：[pummeloaki@gmail.com](mailto:pummeloaki@gmail.com)
-- Github Issue：[launch an issue](https://github.com/Khancat1120/Khancat1120.github.io/issues)
+- Alternate email：[pummeloaki@gmail.com](mailto:k3hanpang@gmail.com)
+- Github Issue：[launch an issue](https://github.com/KehanPang/KehanPang.github.io/issues)
 
 ### Skill tree
 
