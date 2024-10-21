@@ -11,7 +11,11 @@ sidebar: true
 </ClientOnly>
 
 <div style="text-align: center;">
-<img src="/img/mahua1.jpg" style="margin-bottom: -20px;" width="100%" height="100%">
+<img src="/img/mahua1.jpg" style="margin-bottom: -20px;" width="70%" height="70%">
+</div>
+
+<div style="text-align: center;">
+<img src="/img/mahua4.png" style="margin-bottom: -20px;" width="100%" height="100%">
 </div>
 
 <div style="text-align: center;">
