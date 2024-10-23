@@ -15,10 +15,6 @@ sidebar: true
 </div>
 
 <div style="text-align: center;">
-<img src="/img/mahua4.png" style="margin-bottom: -20px;" width="100%" height="100%">
-</div>
-
-<div style="text-align: center;">
 <img src="/img/mahua2.jpg" style="margin-bottom: -20px;" width="100%" height="100%">
 </div>
 
