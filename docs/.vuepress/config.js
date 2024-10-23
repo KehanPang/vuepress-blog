@@ -25,7 +25,7 @@ module.exports = {
     head: [
         ['link', {
             rel: 'icon',
-            href: `/luffy.jpg`
+            href: `/hinmeru.jpg`
         }],
         ['link', {
             rel: 'stylesheet',
