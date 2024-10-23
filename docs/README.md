@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /luffy.jpg
+heroImage: /hinmeru.jpg
 actionText: About me →
 actionLink: /about/
 features:

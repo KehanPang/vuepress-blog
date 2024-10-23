@@ -72,7 +72,7 @@ module.exports = {
     // },
     // 导航菜单
     themeConfig: {
-        logo:'/luffy.jpg',
+        logo:'/hinmeru.jpg',
         nav,
         sidebar,
         //左侧菜单栏
