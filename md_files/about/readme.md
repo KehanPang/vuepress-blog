@@ -20,7 +20,7 @@ sidebar: false
 - Occupation: A PhD student who is a jack of all trades, master of none.
 - Current residence: Beijing, China.
 - Research interests: Graph Knowledge reasoniong, Graph Data Mining, Graph Data Management.
-- MBTI：INTP.
+- MBTI: INTP.
 - Language:
   - 中文 √√√√√
   - English √√√
