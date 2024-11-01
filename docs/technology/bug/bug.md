@@ -14,13 +14,34 @@ sidebar: true
 <img src="/img/mahua1.jpg" style="margin-bottom: -20px;" width="70%" height="70%">
 </div>
 
+
+
+
 <div style="text-align: center;">
 <img src="/img/mahua2.jpg" style="margin-bottom: -20px;" width="100%" height="100%">
 </div>
 
+
+
+
 <div style="text-align: center;">
 <img src="/img/mahua3.png" style="margin-bottom: -20px;" width="100%" height="100%">
 </div>
+
+
+
+
+<div style="text-align: center;">
+<img src="/img/mahua4.jpg" style="margin-bottom: -20px;" width="100%" height="100%">
+</div>
+
+
+
+
+<div style="text-align: center;">
+<img src="/img/mahua5.jpg" style="margin-bottom: -20px;" width="100%" height="100%">
+</div>
+
 
 
 ```python
