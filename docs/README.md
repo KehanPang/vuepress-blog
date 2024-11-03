@@ -4,9 +4,9 @@ heroImage: /hinmeru.jpg
 actionText: About me →
 actionLink: /about/
 features:
-  - title: Knowledge
+  - title: Surv.
     details: Paper interpretation, course learning notes
-  - title: Technology
+  - title: Tech.
     details: Code memo, environmental configuration instructions, experimental records, and trap records
   - title: Essay
     details: Recording life, recording growth
