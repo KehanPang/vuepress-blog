@@ -44,7 +44,7 @@ sidebar: true
 * actualization：自我实现
 * assets：资产
 * accolades：荣誉
-* anticipate：预测
+* anticipate：预测 ++
 
 ### b
 * bribe：贿赂
