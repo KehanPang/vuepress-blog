@@ -12,7 +12,7 @@ features:
     details: Recording life, recording growth
 ---
 
-<map />
+<ClustrMaps/>
 
 <!-- root@VM-24-12-ubuntu:/myBlog/vuepress-blog-master# npm list
 vuepress-demo@1.0.0 /myBlog/vuepress-blog-master
