@@ -52,11 +52,11 @@ module.exports = {
             "type": "text/javascript",
             "src": "/iconfont/iconfont.js"
         }],
-        ['script', {
-            type: 'text/javascript',
-            id: 'clustrmaps',
-            src: '//clustrmaps.com/map_v2.js?d=6NSMM9lrJc5M_xL0jlSDtBsuZtRRx7kvsq_3gSIA-oo&cl=ffffff&w=a'
-        }],
+        // ['script', {
+        //     type: 'text/javascript',
+        //     id: 'clustrmaps',
+        //     src: '//clustrmaps.com/map_v2.js?d=6NSMM9lrJc5M_xL0jlSDtBsuZtRRx7kvsq_3gSIA-oo&cl=ffffff&w=a'
+        // }],
         // ["script", {
         //     "src": "https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js",
         // }],
