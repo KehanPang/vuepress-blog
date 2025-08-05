@@ -39,6 +39,6 @@ module.exports = [
                 // },
             ]
     },
-    {text: 'Novels', link: '/novels/01-其一',},
+    // {text: 'Novels', link: '/novels/01-其一',},
     {text: 'Essay', link: '/jottings/01-我与他',},
 ]
