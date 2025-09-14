@@ -37,13 +37,13 @@ module.exports = {
         //     children: getChildren('./docs/technology/Language/')
         // },
     ],
-    '/novels/':[
-        {
-            title: 'Novel',
-            collapsable: true,
-            children: getChildren('./docs/novels/')
-        },
-    ],
+    // '/novels/':[
+    //     {
+    //         title: 'Novel',
+    //         collapsable: true,
+    //         children: getChildren('./docs/novels/')
+    //     },
+    // ],
     '/jottings/':[
         {
             title: 'Essay',
