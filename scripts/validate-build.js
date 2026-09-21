@@ -65,15 +65,15 @@ const aboutEducationTerms = {
 const educationEntries = {
   'index.html': [
     { institution: 'Beijing University of Posts and Telecommunications', period: 'Sep. 2018 – Jul. 2022', secondary: 'School of Computer Science · Computer Science and Technology · B.Eng.', meta: 'GPA: 3.7 / 4.0', rank: 'Rank: 30 / 396 (Top 7.6%)' },
-    { institution: 'Beihang University', period: 'Sep. 2022 – Apr. 2027 (Expected)', secondary: 'School of Computer Science and Engineering · Software Engineering · Ph.D. Student', meta: 'Advisors: ', research: 'Research: Graph Data Quality · Graph Data Mining · Graph Model Reliability' }
+    { institution: 'Beihang University', period: 'Sep. 2022 – Jul. 2027 (Expected)', secondary: 'School of Computer Science and Engineering · Software Engineering · Ph.D. Student', meta: 'Advisors: ', research: 'Research: Graph Data Quality · Graph Data Mining · Graph Model Reliability' }
   ],
   'zh/index.html': [
     { institution: '北京邮电大学', period: '2018.09 – 2022.07', secondary: '计算机学院 · 计算机科学与技术 · 工学学士', meta: 'GPA：3.7 / 4.0', rank: '专业排名：30 / 396（前 7.6%）' },
-    { institution: '北京航空航天大学', period: '2022.09 – 2027.04（预计）', secondary: '计算机学院 · 软件工程 · 博士研究生', meta: '导师：', research: '研究方向：图数据质量 · 图数据挖掘 · 图模型可靠性' }
+    { institution: '北京航空航天大学', period: '2022.09 – 2027.07（预计）', secondary: '计算机学院 · 软件工程 · 博士研究生', meta: '导师：', research: '研究方向：图数据质量 · 图数据挖掘 · 图模型可靠性' }
   ],
   'ja/index.html': [
     { institution: '北京郵電大学', period: '2018.09 – 2022.07', secondary: 'コンピュータサイエンス学院 · コンピュータ科学技術 · 工学学士', meta: 'GPA：3.7 / 4.0', rank: '専攻順位：30 / 396（上位 7.6%）' },
-    { institution: '北京航空航天大学', period: '2022.09 – 2027.04（予定）', secondary: 'コンピュータサイエンス学院 · ソフトウェア工学 · 博士課程', meta: '指導教員：', research: '研究分野：グラフデータ品質 · グラフデータマイニング · グラフモデル信頼性' }
+    { institution: '北京航空航天大学', period: '2022.09 – 2027.07（予定）', secondary: 'コンピュータサイエンス学院 · ソフトウェア工学 · 博士課程', meta: '指導教員：', research: '研究分野：グラフデータ品質 · グラフデータマイニング · グラフモデル信頼性' }
   ]
 }
 
@@ -85,7 +85,7 @@ const advisorNames = {
 
 const experienceDetails = {
   'index.html': [
-    { roleParts: ['Research Intern'], detail: 'Conducted research on graph data governance and enhancement, GNN explainability, graph computing systems, and low-resource adaptation of LLMs in large-scale data settings. This work resulted in multiple publications at CCF-A venues, including ACM TODS and IEEE ICDE.' },
+    { roleParts: ['Research Intern'], detail: 'Conducted research on graph data management and enhancement, GNN explainability, graph computing systems, and low-resource adaptation of LLMs in large-scale data settings. This work resulted in multiple publications at CCF-A venues, including ACM TODS and IEEE ICDE.' },
     { roleParts: ['Algorithm Research Intern', ' · Core Local Commerce / M17'], detail: 'Contributed to web-data cleaning and quality assessment for foundation-model pretraining; deployed a local 7B model and performed full-parameter SFT. The fine-tuned model achieved approximately 96% of the GPT-4 baseline in ROUGE-L and outperformed conventional methods by approximately 6%.' }
   ],
   'zh/index.html': [
@@ -93,7 +93,7 @@ const experienceDetails = {
     { roleParts: ['算法研究实习生', ' · 核心本地商业 / M17'], detail: '参与基座大语言模型预训练网页数据的清洗与质量评估，并负责本地 7B 模型的部署与全量微调；在网页数据清洗任务上，微调后模型的 ROUGE-L 达到 GPT-4 基线的约 96%，较传统方法提升约 6%。' }
   ],
   'ja/index.html': [
-    { roleParts: ['研究インターン'], detail: 'グラフデータガバナンスとデータ強化、GNNの説明可能性、グラフコンピューティングシステム、および大規模データ環境におけるLLMの低リソース適応に関する研究に従事しました。これらの研究成果として、ACM TODSやIEEE ICDEなどのCCF-Aランクのジャーナル・国際会議で複数の論文を発表しました。' },
+    { roleParts: ['研究インターン'], detail: 'グラフデータマネジメントとデータ強化、GNNの説明可能性、グラフコンピューティングシステム、および大規模データ環境におけるLLMの低リソース適応に関する研究に従事しました。これらの研究成果として、ACM TODSやIEEE ICDEなどのCCF-Aランクのジャーナル・国際会議で複数の論文を発表しました。' },
     { roleParts: ['アルゴリズム研究インターン', ' · Core Local Commerce / M17'], detail: '基盤LLMの事前学習に用いるWebデータのクリーニングと品質評価に携わり、ローカル7BモデルのデプロイおよびフルパラメータSFTを実施しました。ファインチューニング後のモデルは、WebデータクリーニングタスクにおいてROUGE-LでGPT-4ベースラインの約96%を達成し、従来手法を約6%上回りました。' }
   ]
 }

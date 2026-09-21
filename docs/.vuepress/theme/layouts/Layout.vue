@@ -152,7 +152,7 @@
                 <p class="timeline-layer-label timeline-layer-label--news">{{ copy.timelineLabels.news }}</p>
                 <div class="unified-timeline__axis" aria-hidden="true">
                   <time class="timeline-endpoint timeline-endpoint--start">2018.09</time>
-                  <time class="timeline-endpoint timeline-endpoint--end">2027.04</time>
+                  <time class="timeline-endpoint timeline-endpoint--end">2027.07</time>
                 </div>
                 <a
                   v-for="item in copy.news"

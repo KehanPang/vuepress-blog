@@ -146,7 +146,7 @@ export const content = {
       },
       {
         institution: 'Beihang University',
-        period: 'Sep. 2022 – Apr. 2027 (Expected)',
+        period: 'Sep. 2022 – Jul. 2027 (Expected)',
         program: 'School of Computer Science and Engineering · Software Engineering · Ph.D. Student',
         tone: 'wine',
         start: 46.6,
@@ -180,7 +180,7 @@ export const content = {
         organization: 'Shenzhen Institute of Computing Sciences',
         role: 'Research Intern',
         period: 'Jul. 2023 – Jan. 2024',
-        detail: 'Conducted research on graph data governance and enhancement, GNN explainability, graph computing systems, and low-resource adaptation of LLMs in large-scale data settings. This work resulted in multiple publications at CCF-A venues, including ACM TODS and IEEE ICDE.',
+        detail: 'Conducted research on graph data management and enhancement, GNN explainability, graph computing systems, and low-resource adaptation of LLMs in large-scale data settings. This work resulted in multiple publications at CCF-A venues, including ACM TODS and IEEE ICDE.',
         tone: 'blue', start: 56.3, end: 62.1, layoutStart: 54, row: 0
       },
       {
@@ -264,7 +264,7 @@ export const content = {
       },
       {
         institution: '北京航空航天大学',
-        period: '2022.09 – 2027.04（预计）',
+        period: '2022.09 – 2027.07（预计）',
         program: '计算机学院 · 软件工程 · 博士研究生',
         tone: 'wine',
         start: 46.6,
@@ -383,7 +383,7 @@ export const content = {
       },
       {
         institution: '北京航空航天大学',
-        period: '2022.09 – 2027.04（予定）',
+        period: '2022.09 – 2027.07（予定）',
         program: 'コンピュータサイエンス学院 · ソフトウェア工学 · 博士課程',
         tone: 'wine',
         start: 46.6,
@@ -417,7 +417,7 @@ export const content = {
         organization: 'Shenzhen Institute of Computing Sciences',
         role: '研究インターン',
         period: '2023年7月 – 2024年1月',
-        detail: 'グラフデータガバナンスとデータ強化、GNNの説明可能性、グラフコンピューティングシステム、および大規模データ環境におけるLLMの低リソース適応に関する研究に従事しました。これらの研究成果として、ACM TODSやIEEE ICDEなどのCCF-Aランクのジャーナル・国際会議で複数の論文を発表しました。',
+        detail: 'グラフデータマネジメントとデータ強化、GNNの説明可能性、グラフコンピューティングシステム、および大規模データ環境におけるLLMの低リソース適応に関する研究に従事しました。これらの研究成果として、ACM TODSやIEEE ICDEなどのCCF-Aランクのジャーナル・国際会議で複数の論文を発表しました。',
         tone: 'blue', start: 56.3, end: 62.1, layoutStart: 54, row: 0
       },
       {
