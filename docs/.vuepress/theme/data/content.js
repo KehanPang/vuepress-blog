@@ -139,7 +139,7 @@ export const content = {
         period: 'Sep. 2018 – Jul. 2022',
         program: 'School of Computer Science · Computer Science and Technology · B.Eng.',
         meta: 'GPA: 3.7 / 4.0',
-        rank: 'Rank: 30 / 396 (Top 7.6%)',
+        rank: 'Rank: 33 / 396 (Top 8.3%)',
         tone: 'blue',
         start: 0,
         end: 44.7
@@ -166,7 +166,7 @@ export const content = {
       { date: '2019.12', event: 'CMC', status: 'First Prize', position: 14.5, side: 'upper', lane: 0, align: 'end', target: '#honors', tone: 'blue', kind: 'award-subtle' },
       { date: '2020.02', event: 'MCM', status: 'Honorable Mention', position: 16.5, side: 'lower', lane: 0, align: 'end', target: '#honors', tone: 'red', kind: 'award' },
       { date: '2020.12', event: 'CMC', status: 'First Prize', position: 26.2, side: 'lower', lane: 1, target: '#honors', tone: 'blue', kind: 'award-subtle' },
-      { date: '2020.09', event: 'Innovation Program', status: 'Municipal Project Award', position: 23.3, side: 'upper', lane: 1, target: '#honors', tone: 'wine', kind: 'award-subtle' },
+      { date: '2020.09', event: 'BUPT Innovation Program', status: 'Municipal Project Award', position: 23.3, side: 'upper', lane: 1, target: '#honors', tone: 'wine', kind: 'award-subtle' },
       { date: '2023.12', event: 'TODS · J.', status: 'Accepted', position: 61.2, side: 'upper', lane: 1, align: 'end', target: '#pub-tods-2024-entity-linking', tone: 'wine', kind: 'publication' },
       { date: '2024.07', event: 'TODS · J.', status: 'Accepted', position: 67.9, side: 'lower', lane: 0, align: 'end', target: '#pub-tods-2024-graph-errors', tone: 'wine', kind: 'publication' },
       { date: '2024.08', event: 'KDD · Conf.', status: 'Accepted', position: 68.9, side: 'upper', lane: 0, align: 'end', target: '#pub-kdd-2024-meld', tone: 'blue', kind: 'publication' },
@@ -179,9 +179,9 @@ export const content = {
       {
         organization: 'Shenzhen Institute of Computing Sciences',
         role: 'Research Intern',
-        period: 'Jul. 2023 – Jan. 2024',
+        period: 'Jun. 2023 – Jan. 2024',
         detail: 'Conducted research on graph data management and enhancement, GNN explainability, graph computing systems, and low-resource adaptation of LLMs in large-scale data settings. This work resulted in multiple publications at CCF-A venues, including ACM TODS and IEEE ICDE.',
-        tone: 'blue', start: 56.3, end: 62.1, layoutStart: 54, row: 0
+        tone: 'blue', start: 55.3, end: 62.1, layoutStart: 54, row: 0
       },
       {
         organization: 'Meituan',
@@ -198,7 +198,7 @@ export const content = {
       'Undergraduate Scholarship, Beijing University of Posts and Telecommunications, 2019–2021',
       'Academic Scholarship, School of Computer Science, Beihang University, 2022–2025',
       'Honorable Mention, Mathematical Contest in Modeling, 2020',
-      'Beijing municipal-level Undergraduate Innovation and Entrepreneurship Training Program award, 2020'
+      'Municipal Project Award, Undergraduate Innovation and Entrepreneurship Training Program, Beijing University of Posts and Telecommunications, 2020'
     ],
     service: ['External Reviewer, IEEE ICDE, 2024–2026'],
     patentTitle: 'A Method, Apparatus, Device, and Medium for Graph Data Augmentation',
@@ -257,7 +257,7 @@ export const content = {
         period: '2018.09 – 2022.07',
         program: '计算机学院 · 计算机科学与技术 · 工学学士',
         meta: 'GPA：3.7 / 4.0',
-        rank: '专业排名：30 / 396（前 7.6%）',
+        rank: '专业排名：33 / 396（前 8.3%）',
         tone: 'blue',
         start: 0,
         end: 44.7
@@ -284,7 +284,7 @@ export const content = {
       { date: '2019.12', event: '全国大学生数学竞赛', status: '一等奖', position: 14.5, side: 'upper', lane: 0, align: 'end', target: '#honors', tone: 'blue', kind: 'award-subtle' },
       { date: '2020.02', event: 'MCM', status: 'Honorable Mention', position: 16.5, side: 'lower', lane: 0, align: 'end', target: '#honors', tone: 'red', kind: 'award' },
       { date: '2020.12', event: '全国大学生数学竞赛', status: '一等奖', position: 26.2, side: 'lower', lane: 1, target: '#honors', tone: 'blue', kind: 'award-subtle' },
-      { date: '2020.09', event: '创新创业训练计划', status: '市级项目奖', position: 23.3, side: 'upper', lane: 1, target: '#honors', tone: 'wine', kind: 'award-subtle' },
+      { date: '2020.09', event: '北邮创新创业训练计划', status: '市级项目奖', position: 23.3, side: 'upper', lane: 1, target: '#honors', tone: 'wine', kind: 'award-subtle' },
       { date: '2023.12', event: 'TODS · J.', status: 'Accepted', position: 61.2, side: 'upper', lane: 1, align: 'end', target: '#pub-tods-2024-entity-linking', tone: 'wine', kind: 'publication' },
       { date: '2024.07', event: 'TODS · J.', status: 'Accepted', position: 67.9, side: 'lower', lane: 0, align: 'end', target: '#pub-tods-2024-graph-errors', tone: 'wine', kind: 'publication' },
       { date: '2024.08', event: 'KDD · Conf.', status: 'Accepted', position: 68.9, side: 'upper', lane: 0, align: 'end', target: '#pub-kdd-2024-meld', tone: 'blue', kind: 'publication' },
@@ -298,9 +298,9 @@ export const content = {
         organization: '深圳计算科学研究院',
         department: '基础研究部',
         role: '实习研究员',
-        period: '2023.07 – 2024.01',
+        period: '2023.06 – 2024.01',
         detail: '参与图数据治理与增强、图神经网络可解释性、图计算系统，以及大规模数据场景下大语言模型的低资源适配等方向的研究。期间成功产出多篇学术论文，发表于 TODS、ICDE 等 CCF A 类期刊与会议。',
-        tone: 'blue', start: 56.3, end: 62.1, layoutStart: 54, row: 0
+        tone: 'blue', start: 55.3, end: 62.1, layoutStart: 54, row: 0
       },
       {
         organization: '美团',
@@ -317,7 +317,7 @@ export const content = {
       '北京邮电大学本科生奖学金，2019–2021',
       '北京航空航天大学计算机学院学业奖学金，2022–2025',
       '美国大学生数学建模竞赛 Honorable Mention，2020',
-      '北京市级大学生创新创业训练计划项目奖项，2020'
+      '北京邮电大学大学生创新创业训练计划市级项目奖，2020'
     ],
     service: ['IEEE ICDE 外部审稿人，2024–2026'],
     patentTitle: '一种图数据增强方法、装置、设备及介质',
@@ -376,7 +376,7 @@ export const content = {
         period: '2018.09 – 2022.07',
         program: 'コンピュータサイエンス学院 · コンピュータ科学技術 · 工学学士',
         meta: 'GPA：3.7 / 4.0',
-        rank: '専攻順位：30 / 396（上位 7.6%）',
+        rank: '専攻順位：33 / 396（上位 8.3%）',
         tone: 'blue',
         start: 0,
         end: 44.7
@@ -403,7 +403,7 @@ export const content = {
       { date: '2019.12', event: '全国大学生数学競技会', status: '一等賞', position: 14.5, side: 'upper', lane: 0, align: 'end', target: '#honors', tone: 'blue', kind: 'award-subtle' },
       { date: '2020.02', event: 'MCM', status: 'Honorable Mention', position: 16.5, side: 'lower', lane: 0, align: 'end', target: '#honors', tone: 'red', kind: 'award' },
       { date: '2020.12', event: '全国大学生数学競技会', status: '一等賞', position: 26.2, side: 'lower', lane: 1, target: '#honors', tone: 'blue', kind: 'award-subtle' },
-      { date: '2020.09', event: 'イノベーションプログラム', status: '市級プロジェクト賞', position: 23.3, side: 'upper', lane: 1, target: '#honors', tone: 'wine', kind: 'award-subtle' },
+      { date: '2020.09', event: '北京郵電大学イノベーション', status: '市級プロジェクト賞', position: 23.3, side: 'upper', lane: 1, target: '#honors', tone: 'wine', kind: 'award-subtle' },
       { date: '2023.12', event: 'TODS · J.', status: 'Accepted', position: 61.2, side: 'upper', lane: 1, align: 'end', target: '#pub-tods-2024-entity-linking', tone: 'wine', kind: 'publication' },
       { date: '2024.07', event: 'TODS · J.', status: 'Accepted', position: 67.9, side: 'lower', lane: 0, align: 'end', target: '#pub-tods-2024-graph-errors', tone: 'wine', kind: 'publication' },
       { date: '2024.08', event: 'KDD · Conf.', status: 'Accepted', position: 68.9, side: 'upper', lane: 0, align: 'end', target: '#pub-kdd-2024-meld', tone: 'blue', kind: 'publication' },
@@ -416,9 +416,9 @@ export const content = {
       {
         organization: 'Shenzhen Institute of Computing Sciences',
         role: '研究インターン',
-        period: '2023年7月 – 2024年1月',
+        period: '2023年6月 – 2024年1月',
         detail: 'グラフデータマネジメントとデータ強化、GNNの説明可能性、グラフコンピューティングシステム、および大規模データ環境におけるLLMの低リソース適応に関する研究に従事しました。これらの研究成果として、ACM TODSやIEEE ICDEなどのCCF-Aランクのジャーナル・国際会議で複数の論文を発表しました。',
-        tone: 'blue', start: 56.3, end: 62.1, layoutStart: 54, row: 0
+        tone: 'blue', start: 55.3, end: 62.1, layoutStart: 54, row: 0
       },
       {
         organization: 'Meituan（美団）',
@@ -435,7 +435,7 @@ export const content = {
       '北京郵電大学 学部奨学金（2019–2021年）',
       '北京航空航天大学 コンピュータサイエンス学院 学業奨学金（2022–2025年）',
       'Mathematical Contest in Modeling, Honorable Mention（2020年）',
-      '北京市大学生イノベーション・起業訓練プログラム 表彰（2020年）'
+      '北京郵電大学 大学生イノベーション・起業訓練プログラム 市級プロジェクト賞（2020年）'
     ],
     service: ['IEEE ICDE 外部査読者（2024–2026年）'],
     patentTitle: 'A Method, Apparatus, Device, and Medium for Graph Data Augmentation',

@@ -25,15 +25,15 @@ assert.deepStrictEqual(htmlFiles, ['404.html', 'index.html', 'ja/index.html', 'z
 
 const expectedPages = {
   'index.html': {
-    phrases: ['Kehan Pang', 'About Me', 'Data-Centric AI', 'Data Quality', 'Knowledge Discovery', 'Model Reliability', 'Research Interests', 'Beyond Research', 'INTP / Scorpio / Guitar / ACGN', 'Education &amp; Work Experience', 'Education', 'News', 'Work Experience', '2019.12', 'CMC', 'First Prize', '2020.12', '2020.09', 'Innovation Program', 'Municipal Project Award', '2023.12', '2024.07', 'TODS · J.', 'Accepted', '2024.08', 'KDD · Conf.', 'Publications', 'Contact', 'On this page', 'CCF-A Conference', 'CCF-A Journal', 'Beihang University', 'No. 37 Xueyuan Road', 'Haidian District, Beijing, China'],
+    phrases: ['Kehan Pang', 'About Me', 'Data-Centric AI', 'Data Quality', 'Knowledge Discovery', 'Model Reliability', 'Research Interests', 'Beyond Research', 'INTP / Scorpio / Guitar / ACGN', 'Education &amp; Work Experience', 'Education', 'News', 'Work Experience', '2019.12', 'CMC', 'First Prize', '2020.12', '2020.09', 'BUPT Innovation Program', 'Municipal Project Award', '2023.12', '2024.07', 'TODS · J.', 'Accepted', '2024.08', 'KDD · Conf.', 'Publications', 'Contact', 'On this page', 'CCF-A Conference', 'CCF-A Journal', 'Beihang University', 'No. 37 Xueyuan Road', 'Haidian District, Beijing, China'],
     cv: '/cv.pdf'
   },
   'zh/index.html': {
-    phrases: ['庞可涵', '关于我', '以数据为中心的人工智能', '数据质量', '知识发现', '模型可靠性', '研究方向', '研究之外', 'INTP / 天蝎座 / 吉他 / ACGN', '教育与工作经历', '教育经历', 'News', '工作经历', '2019.12', '全国大学生数学竞赛', '一等奖', '2020.12', '2020.09', '创新创业训练计划', '市级项目奖', '2023.12', '2024.07', 'TODS · J.', 'Accepted', '2024.08', 'KDD · Conf.', '学术成果', '联系方式', '本页目录', 'CCF-A 类会议', 'CCF-A 类期刊', '北京市海淀区学院路37号', '北京航空航天大学'],
+    phrases: ['庞可涵', '关于我', '以数据为中心的人工智能', '数据质量', '知识发现', '模型可靠性', '研究方向', '研究之外', 'INTP / 天蝎座 / 吉他 / ACGN', '教育与工作经历', '教育经历', 'News', '工作经历', '2019.12', '全国大学生数学竞赛', '一等奖', '2020.12', '2020.09', '北邮创新创业训练计划', '市级项目奖', '2023.12', '2024.07', 'TODS · J.', 'Accepted', '2024.08', 'KDD · Conf.', '学术成果', '联系方式', '本页目录', 'CCF-A 类会议', 'CCF-A 类期刊', '北京市海淀区学院路37号', '北京航空航天大学'],
     cv: '/简历.pdf'
   },
   'ja/index.html': {
-    phrases: ['Kehan Pang', 'プロフィール', 'データセントリックAI', 'データ品質', '知識発見', 'モデル信頼性', '研究分野', '研究以外', 'INTP / さそり座 / ギター / ACGN', '学歴・職歴', '学歴', 'News', '職歴', '2019.12', '全国大学生数学競技会', '一等賞', '2020.12', '2020.09', 'イノベーションプログラム', '市級プロジェクト賞', '2023.12', '2024.07', 'TODS · J.', 'Accepted', '2024.08', 'KDD · Conf.', '研究業績', '連絡先', '目次', 'CCF-A 会議', 'CCF-A ジャーナル', '中国北京市海淀区学院路37号', '北京航空航天大学'],
+    phrases: ['Kehan Pang', 'プロフィール', 'データセントリックAI', 'データ品質', '知識発見', 'モデル信頼性', '研究分野', '研究以外', 'INTP / さそり座 / ギター / ACGN', '学歴・職歴', '学歴', 'News', '職歴', '2019.12', '全国大学生数学競技会', '一等賞', '2020.12', '2020.09', '北京郵電大学イノベーション', '市級プロジェクト賞', '2023.12', '2024.07', 'TODS · J.', 'Accepted', '2024.08', 'KDD · Conf.', '研究業績', '連絡先', '目次', 'CCF-A 会議', 'CCF-A ジャーナル', '中国北京市海淀区学院路37号', '北京航空航天大学'],
     cv: '/cv.pdf'
   }
 }
@@ -64,15 +64,15 @@ const aboutEducationTerms = {
 
 const educationEntries = {
   'index.html': [
-    { institution: 'Beijing University of Posts and Telecommunications', period: 'Sep. 2018 – Jul. 2022', secondary: 'School of Computer Science · Computer Science and Technology · B.Eng.', meta: 'GPA: 3.7 / 4.0', rank: 'Rank: 30 / 396 (Top 7.6%)' },
+    { institution: 'Beijing University of Posts and Telecommunications', period: 'Sep. 2018 – Jul. 2022', secondary: 'School of Computer Science · Computer Science and Technology · B.Eng.', meta: 'GPA: 3.7 / 4.0', rank: 'Rank: 33 / 396 (Top 8.3%)' },
     { institution: 'Beihang University', period: 'Sep. 2022 – Jul. 2027 (Expected)', secondary: 'School of Computer Science and Engineering · Software Engineering · Ph.D. Student', meta: 'Advisors: ', research: 'Research: Graph Data Quality · Graph Data Mining · Graph Model Reliability' }
   ],
   'zh/index.html': [
-    { institution: '北京邮电大学', period: '2018.09 – 2022.07', secondary: '计算机学院 · 计算机科学与技术 · 工学学士', meta: 'GPA：3.7 / 4.0', rank: '专业排名：30 / 396（前 7.6%）' },
+    { institution: '北京邮电大学', period: '2018.09 – 2022.07', secondary: '计算机学院 · 计算机科学与技术 · 工学学士', meta: 'GPA：3.7 / 4.0', rank: '专业排名：33 / 396（前 8.3%）' },
     { institution: '北京航空航天大学', period: '2022.09 – 2027.07（预计）', secondary: '计算机学院 · 软件工程 · 博士研究生', meta: '导师：', research: '研究方向：图数据质量 · 图数据挖掘 · 图模型可靠性' }
   ],
   'ja/index.html': [
-    { institution: '北京郵電大学', period: '2018.09 – 2022.07', secondary: 'コンピュータサイエンス学院 · コンピュータ科学技術 · 工学学士', meta: 'GPA：3.7 / 4.0', rank: '専攻順位：30 / 396（上位 7.6%）' },
+    { institution: '北京郵電大学', period: '2018.09 – 2022.07', secondary: 'コンピュータサイエンス学院 · コンピュータ科学技術 · 工学学士', meta: 'GPA：3.7 / 4.0', rank: '専攻順位：33 / 396（上位 8.3%）' },
     { institution: '北京航空航天大学', period: '2022.09 – 2027.07（予定）', secondary: 'コンピュータサイエンス学院 · ソフトウェア工学 · 博士課程', meta: '指導教員：', research: '研究分野：グラフデータ品質 · グラフデータマイニング · グラフモデル信頼性' }
   ]
 }
@@ -96,6 +96,21 @@ const experienceDetails = {
     { roleParts: ['研究インターン'], detail: 'グラフデータマネジメントとデータ強化、GNNの説明可能性、グラフコンピューティングシステム、および大規模データ環境におけるLLMの低リソース適応に関する研究に従事しました。これらの研究成果として、ACM TODSやIEEE ICDEなどのCCF-Aランクのジャーナル・国際会議で複数の論文を発表しました。' },
     { roleParts: ['アルゴリズム研究インターン', ' · Core Local Commerce / M17'], detail: '基盤LLMの事前学習に用いるWebデータのクリーニングと品質評価に携わり、ローカル7BモデルのデプロイおよびフルパラメータSFTを実施しました。ファインチューニング後のモデルは、WebデータクリーニングタスクにおいてROUGE-LでGPT-4ベースラインの約96%を達成し、従来手法を約6%上回りました。' }
   ]
+}
+
+const correctedProfileFacts = {
+  'index.html': {
+    sicsPeriod: 'Jun. 2023 – Jan. 2024',
+    award: 'Municipal Project Award, Undergraduate Innovation and Entrepreneurship Training Program, Beijing University of Posts and Telecommunications, 2020'
+  },
+  'zh/index.html': {
+    sicsPeriod: '2023.06 – 2024.01',
+    award: '北京邮电大学大学生创新创业训练计划市级项目奖，2020'
+  },
+  'ja/index.html': {
+    sicsPeriod: '2023年6月 – 2024年1月',
+    award: '北京郵電大学 大学生イノベーション・起業訓練プログラム 市級プロジェクト賞（2020年）'
+  }
 }
 
 const personalDetails = {
@@ -156,6 +171,9 @@ for (const [filename, expected] of Object.entries(expectedPages)) {
   assert.strictEqual((html.match(/class="education-range__rank"/g) || []).length, 1, `${filename} does not render the BUPT Rank on its own fourth line`)
   assert.strictEqual((html.match(/class="education-range__research"/g) || []).length, 1, `${filename} does not render Research on its own Education line`)
   const timelineHtml = html.slice(html.indexOf('id="timeline"'), html.indexOf('id="publications"'))
+  const correctedFacts = correctedProfileFacts[filename]
+  assert(timelineHtml.includes(`<time>${correctedFacts.sicsPeriod}</time>`), `${filename} has the wrong SICS period`)
+  assert(html.includes(correctedFacts.award), `${filename} has the wrong BUPT innovation-program award`)
   assert(!timelineHtml.includes('<small>') && !timelineHtml.includes('education-range__unit'), `${filename} still renders detached school abbreviations or units`)
   for (const { institution, period, secondary, meta, rank, research } of educationEntries[filename]) {
     assert(timelineHtml.includes(`<h3>${institution}</h3> <time>${period}</time>`), `${filename} does not keep ${institution} and its date together`)
